@@ -1,8 +1,5 @@
 package com.ani.car;
 
-/**
- * This is a car class, which represents car entity.
- */
 public class Car {
     private int speed;
 
